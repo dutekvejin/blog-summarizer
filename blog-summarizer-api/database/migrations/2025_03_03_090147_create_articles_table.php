@@ -16,6 +16,8 @@ return new class extends Migration {
             $table->text('title');
             $table->text('summary');
             $table->timestamps();
+
+            $table->index('created_at');
         });
     }
 
