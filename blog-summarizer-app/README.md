@@ -2,6 +2,9 @@
 
 ## Project Setup
 
+### Requirements:
+- node v20.10.0 (npm v10.8.3) (used for development)
+
 ### Set env variables
 
 ```sh
